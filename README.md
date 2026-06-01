@@ -41,8 +41,7 @@
 
 ## 🖥️ Live Demo & Public Mirror/Leech Group
 
-- Channel: [DOWNLOADER ZONE UPDATES](https://t.me/DOWNLOADERZONEUPDATES)
-- Group: [DOWNLOADER ZONE FREE MIRROR LEECH GROUP](https://t.me/downloaderzonefreemirrorleech)
+ - Access All Services: [Click here](https://t.me/DzoneeManagerBot)
 
 ---
 
