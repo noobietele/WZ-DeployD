@@ -1,6 +1,7 @@
 asyncio
 aiofiles
 aiohttp
+aiohttp-socks
 aioshutil
 anytree
 apscheduler
@@ -9,6 +10,7 @@ aioqbt
 git+https://github.com/NBBotz/IMDBKit
 beautifulsoup4
 cloudscraper
+curl_cffi
 dnspython
 fastapi
 feedparser
@@ -17,9 +19,12 @@ google-auth-httplib2
 google-auth-oauthlib
 gunicorn
 httpx
+httpx[socks]
+socksio
 langcodes
 jinja2
 lxml
+lxml[html_clean]
 language_data
 natsort
 par2cmdline-turbo
@@ -37,6 +42,6 @@ telegraph
 tenacity
 urllib3
 uvicorn
-uvloop==0.21.0
+uvloop
 xattr
 yt-dlp[default,curl-cffi]
